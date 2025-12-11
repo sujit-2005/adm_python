@@ -1,2 +1,2 @@
 print("hello world")
-fgredfg
+print(2+2)
