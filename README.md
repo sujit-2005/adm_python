@@ -7,6 +7,7 @@ muhahahahaha😈
 | ------- |
 | [0011-container-with-most-water](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sujit-2005/adm_python/tree/master/0014-longest-common-prefix) |
+| [0045-jump-game-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sujit-2005/adm_python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0119-pascals-triangle-ii) |
@@ -49,6 +50,7 @@ muhahahahaha😈
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sujit-2005/adm_python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0119-pascals-triangle-ii) |
@@ -102,6 +104,7 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 ## Tree
