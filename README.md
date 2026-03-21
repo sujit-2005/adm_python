@@ -6,6 +6,7 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sujit-2005/adm_python/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sujit-2005/adm_python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0120-triangle) |
@@ -47,6 +48,7 @@ muhahahahaha😈
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sujit-2005/adm_python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0120-triangle) |
@@ -107,4 +109,8 @@ muhahahahaha😈
 |  |
 | ------- |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
