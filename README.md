@@ -26,6 +26,7 @@ muhahahahaha😈
 | [0020-valid-parentheses](https://github.com/sujit-2005/adm_python/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0139-word-break) |
+| [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 ## Trie
@@ -39,6 +40,7 @@ muhahahahaha😈
 | [0013-roman-to-integer](https://github.com/sujit-2005/adm_python/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0202-happy-number) |
+| [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -71,10 +73,12 @@ muhahahahaha😈
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Backtracking
 |  |
@@ -121,4 +125,12 @@ muhahahahaha😈
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0053-maximum-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
