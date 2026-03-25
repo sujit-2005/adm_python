@@ -13,6 +13,7 @@ muhahahahaha😈
 | [0119-pascals-triangle-ii](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sujit-2005/adm_python/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0136-single-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0139-word-break) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -63,6 +64,7 @@ muhahahahaha😈
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sujit-2005/LeetCode_solutions/tree/master/0136-single-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sujit-2005/LeetCode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/sujit-2005/LeetCode_solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
